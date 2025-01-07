@@ -31,7 +31,14 @@ Here’s what I have in mind for the future:
 - Collaborative coding exercises (feel free to contribute!).
 
 ## 🛠️ How to Use This Repo?
-Feel free to browse, clone, and experiment with the programs:
+Feel free to browse, clone, and experiment with the programs.
+### To clone this repository follow these steps:
+
+1. **Install Git**: If you don’t have Git installed, [download and install Git](https://git-scm.com/downloads).
+
+2. **Clone the repository**: Open your terminal (or Git Bash on Windows) and run the following command to clone the repository:
+   git clone https://github.com/hide-afk/practice-programs.git
+
 
 ## 🙌 Contributions
 If you have cool ideas or improvements, feel free to open an issue or submit a pull request. Let’s learn and grow together! 🌱
