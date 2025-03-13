@@ -4,7 +4,7 @@ Welcome to my **Practice Programs** repository! 🎉 This is a collection of cod
 
 ## 🗂️ What's Inside?
 
-This repository will host various practice programs across different languages. Currently, the focus is on **Java**, but in the near future, I plan to expand it with:
+This repository will host various practice programs across different languages. Currently, the focus is on **JavaScript**, but in the near future, I plan to expand it with:
 
 - **Python 🐍** for versatile scripting and data manipulation.
 - **Bash 🖥️** for mastering shell scripting.
