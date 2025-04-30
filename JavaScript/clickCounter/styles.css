@@ -1,0 +1,98 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #1d5e78;
+    background: radial-gradient(circle, rgba(29, 94, 120, 1) 0%, rgba(18, 15, 15, 1) 50%, rgba(0, 0, 0, 1) 100%);
+}
+
+.titles {
+    padding: 10vh;
+}
+
+#title {
+    text-align: center;
+    font-family: 'Quantico';
+    font-size: 6vh;
+    text-shadow: black;
+    color: white;
+}
+
+#subtitle {
+    text-align: center;
+    font-family: 'Quantico';
+    font-size: 2vh;
+    text-shadow: black;
+    color: white;
+}
+
+#clickCounter {
+    text-align: center;
+    font-family: 'Quantico';
+    font-size: 10vh;
+    margin-bottom: 10vh;
+    color: white;
+}
+
+#clickButton-container {
+    flex: auto;
+    text-align: center;
+}
+
+#clickButton {
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-right: 1.5vh;
+    padding-left: 1.5vh;
+
+    text-align: center;
+    font-family: 'Quantico';
+    font-size: 4vh;
+    color: white;
+
+    border: 2px solid #e3e3e3;
+    border-radius: 10%;
+    background-color: rgba(0, 0, 0, 0.109);
+    transition: 0.2s ease-in-out;
+}
+
+#clickbutton:hover {
+    border: 2px solid #ffffff;
+    border-radius: 15%;
+    background-color: rgba(0, 0, 0, 0.467);
+    transform: scale(1.05);
+}
+
+/* Reset button styling */
+
+#resetButton-container {
+    margin-top: 2vh;
+    flex: auto;
+    text-align: center;
+}
+
+#resetButton {
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-right: 1.5vh;
+    padding-left: 1.5vh;
+
+    text-align: center;
+    font-family: 'Quantico';
+    font-size: 2.5vh;
+    color: white;
+
+    border: 2px solid #e3e3e3;
+    border-radius: 10%;
+    background-color: rgba(0, 0, 0, 0.109);
+    transition: 0.2s ease-in-out;
+}
+
+#resetButton:hover {
+    border: 2px solid #ffffff;
+    border-radius: 15%;
+    background-color: rgba(0, 0, 0, 0.467);
+    transform: scale(1.05);
+}
