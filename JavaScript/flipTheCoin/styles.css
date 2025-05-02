@@ -1,0 +1,91 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background: #202533;
+    font-family: 'Kanit';
+    font-weight: 600;
+}
+
+.titles {
+    padding: 10vh;
+}
+
+#title {
+    text-align: center;
+    font-family: 'Kanit';
+    font-weight: 600;
+    font-size: 10vh;
+    text-shadow: black;
+    color: #ffffff;
+    -webkit-text-stroke: 0.5vh #a5a7aa59;
+}
+
+#subtitle {
+    text-align: center;
+    font-family: 'Kanit';
+    font-size: 1.5rem;
+    font-weight: 500;
+    text-shadow: black;
+    color: #ECEDF0;
+}
+.coins {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 1px;
+}
+
+.coins p {
+    font-family: 'Kanit';
+    font-weight: 700;
+    font-size: 2rem;
+    color: #ECEDF0;
+    text-shadow: black;
+}
+
+#buttonContainer {
+    flex: auto;
+    text-align: center;
+}
+
+#flippingButton {
+    margin-top: 5vh;
+    padding-top: 1vh;
+    padding-bottom: 1vh;
+    padding-right: 1.5vh;
+    padding-left: 1.5vh;
+
+    text-align: center;
+    font-family: 'Kanit';
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: white;
+
+    border: none;
+    border-radius: 10%;
+    background-color: #1F6FB0;
+    transition: 0.2s ease-out;
+}
+
+#flippingButton:hover{
+    background-color: #164b77;
+    transition: 0.2s ease-in-out;
+}
+
+#heads {
+    display: none;
+}
+#heads img{
+    filter: drop-shadow(0px 10px 10px rgb(0, 0, 0));
+}
+
+#tails {
+    display: none;
+}
+
+#tails img{
+    filter: drop-shadow(0px 10px 10px rgb(0, 0, 0));
+}
