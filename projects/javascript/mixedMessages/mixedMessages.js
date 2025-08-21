@@ -1,3 +1,4 @@
+// This is a practice project from the Codecademy Back-End Engineer Carrer Path
 
 // defining variables and arrays with the needed content
 const jokeTypes = ['frontEnd','backEnd','qa'];
