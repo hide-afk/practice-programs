@@ -12,17 +12,6 @@ The repo is organized into two main categories:
 - **mini-programs/** → small exercises and algorithmic challenges.  
 - **projects/** → larger, more complete projects (often including multiple files, HTML/CSS/JS, or more advanced logic).  
 
-Each category is divided by programming language:
-├── mini-programs/
-│ ├── java/ # Algorithmic challenges (FizzBuzz, Palindrome, etc.)
-│ └── javascript/ # Small JS practice programs (creditCardChecker, etc.)
-│
-├── projects/
-│ ├── java/ # (Reserved for bigger Java projects in the future)
-│ └── javascript/ # Web-based mini projects (FlipTheCoin, ClickCounter, etc.)
-│
-└── README.md
-
 ---
 
 ## 📚 Contents
